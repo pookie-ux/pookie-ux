@@ -1,3 +1,6 @@
+##About me
+Young developer from Russia.
+
 ## My knowledges📖
 
 Most of all I work with python, but I also know a little bit C#, C++, JavaScript and etc.
